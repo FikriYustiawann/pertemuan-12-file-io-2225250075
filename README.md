@@ -7,8 +7,6 @@
 | **Kelas** | 3-E |
 | **Jurusan** | Pendidikan Matematika |
 
-Mata kuliah: Algoritma dan Pemrograman, S1 Pendidikan Matematika FKIP Untirta (2026/2027 Ganjil).
-
 ## Tujuan
 
 Membaca, memvalidasi, mengolah, dan menulis data file dengan Python, serta menangani error dasar (`FileNotFoundError` dan `ValueError`) dengan `try-except` yang spesifik.
